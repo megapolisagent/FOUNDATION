@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "mcp__exa__*",
+      "mcp__firecrawl__search",
+      "mcp__firecrawl__scrape"
+    ]
+  }
+}
